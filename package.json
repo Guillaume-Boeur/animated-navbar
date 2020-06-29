@@ -1,0 +1,20 @@
+{
+  "name": "animated-navbar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guillaume-Boeur/animated-navbar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Guillaume-Boeur/animated-navbar/issues"
+  },
+  "homepage": "https://github.com/Guillaume-Boeur/animated-navbar#readme",
+  "devDependencies": {}
+}
