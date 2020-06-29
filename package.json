@@ -16,5 +16,8 @@
     "url": "https://github.com/Guillaume-Boeur/animated-navbar/issues"
   },
   "homepage": "https://github.com/Guillaume-Boeur/animated-navbar#readme",
-  "devDependencies": {}
+  "devDependencies": {},
+  "dependencies": {
+    "sass": "^1.26.9"
+  }
 }
